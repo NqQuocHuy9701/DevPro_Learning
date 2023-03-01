@@ -1,0 +1,197 @@
+  
+      <div class="table-responsive">  
+           <table class="table table-bordered">
+           <tr>  
+                   <th width="10%">MaHV</td>  
+                   <th width="30%">Tên Học Viên</td>  
+                   <th width="20%">Email</td> 
+                   <th width="20%">Địa chỉ</td>  
+                   <th width="20%">Số điện thoại</td> 
+           </tr>   
+                <tr>  
+                     <td width="10%">47</td>  
+                     <td width="30%">Nguyễn Trí Long</td>  
+                     <td width="20%">hocvien@fpt.edu.vn</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">53</td>  
+                     <td width="30%">Nguyễn Trí Diện</td>  
+                     <td width="20%">phubui2702@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">1698060479</td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">138</td>  
+                     <td width="30%">Dũng nguyễn</td>  
+                     <td width="20%">huyne@123gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">138</td>  
+                     <td width="30%">Dũng nguyễn</td>  
+                     <td width="20%">huyne@123gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">139</td>  
+                     <td width="30%">Nguyễn thi hằng</td>  
+                     <td width="20%">huyne@23gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">139</td>  
+                     <td width="30%">Nguyễn thi hằng</td>  
+                     <td width="20%">huyne@23gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">140</td>  
+                     <td width="30%">Nguyễn long</td>  
+                     <td width="20%">huyne@12344gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">140</td>  
+                     <td width="30%">Nguyễn long</td>  
+                     <td width="20%">huyne@12344gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">141</td>  
+                     <td width="30%">Nguyễn quốc huy</td>  
+                     <td width="20%">huyne@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">142</td>  
+                     <td width="30%">Nguyễn văn nam</td>  
+                     <td width="20%">ne@123gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">143</td>  
+                     <td width="30%">Nguyễn văn huy</td>  
+                     <td width="20%">huyhuy@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">143</td>  
+                     <td width="30%">Nguyễn văn huy</td>  
+                     <td width="20%">huyhuy@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">143</td>  
+                     <td width="30%">Nguyễn văn huy</td>  
+                     <td width="20%">huyhuy@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">144</td>  
+                     <td width="30%">Nguyễn nam</td>  
+                     <td width="20%">huyne1111@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">144</td>  
+                     <td width="30%">Nguyễn nam</td>  
+                     <td width="20%">huyne1111@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%"></td> 
+                </tr>   
+            
+                <tr>  
+                     <td width="10%">145</td>  
+                     <td width="30%">Huy Nguyễn</td>  
+                     <td width="20%">Huyne@gmail.com</td>  
+                     <td width="70%"></td>  
+                     <td width="20%">0862609993</td> 
+                </tr>   
+             
+           </table>  
+      </div>  
+      
